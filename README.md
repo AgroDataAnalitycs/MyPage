@@ -1,2 +1,2 @@
-# MyPage
+# Page
 ...
